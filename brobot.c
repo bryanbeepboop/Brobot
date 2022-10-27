@@ -1,7 +1,6 @@
 /**************************************************
 * CMPEN 473, Spring 2022, Penn State University
 * 
-* Homework 4 part 1
 * Date 2/08/2022
 * By Bryan Hong (bsh5290)
 * 
