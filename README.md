@@ -6,3 +6,4 @@ Smart Robot Car that is able to
 -use MPU to record gyro and acceleration
 
 Source code for the Brobot can be found in brobot.c
+Files except for brobot.c were given
